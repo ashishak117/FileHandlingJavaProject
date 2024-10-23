@@ -1,0 +1,6 @@
+com\tripillar\filehandling\text\ReadTextFile.class
+com\tripillar\filehandling\excel\ReadExcelFile.class
+com\tripillar\filehandling\text\WriteTextFile.class
+com\tripillar\Main.class
+com\tripillar\filehandling\excel\WriteExcelFile.class
+com\tripillar\filehandling\excel\ReadExcelFile$1.class
